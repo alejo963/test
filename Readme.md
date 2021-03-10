@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hola
 
-## Adios
+# Hi
