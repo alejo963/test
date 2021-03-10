@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hola
 
 # Hi
